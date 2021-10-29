@@ -1,0 +1,8 @@
+.navbar {
+  z-index: 999;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
