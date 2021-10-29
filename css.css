@@ -8,11 +8,18 @@
   z-index: 999;
 }
 
+#watch-trailer {
+  margin-right: 20px;
+}
+
 a {
-  color: white;
   text-decoration: none;
 }
 
 a:hover {
   color: yellow;
+}
+
+button:hover {
+  background-color: yellow;
 }
